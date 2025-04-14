@@ -20,7 +20,6 @@ I merge my interests in cybersecurity, IoT, and AI into projects that push techn
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=fff)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=fff)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=fff)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
 
 
 ### Tools & Technologies
