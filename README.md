@@ -30,13 +30,11 @@ I merge my interests in cybersecurity, IoT, and AI into projects that push techn
 ![ESP32](https://img.shields.io/badge/ESP32-000?style=flat&logo=espressif&logoColor=fff)
 
 #### Data Science & AI
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=fff)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=fff)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=fff)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=fff)
 
 #### DevOps & Cloud
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=fff)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=fff)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=fff)
 ![SSH](https://img.shields.io/badge/SSH-000000?style=flat&logo=openssh&logoColor=fff)
