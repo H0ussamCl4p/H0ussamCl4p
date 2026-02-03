@@ -7,7 +7,7 @@ Cybersecurity & cloud computing engineering student @ ENSAM Casablanca
 I merge my interests in cybersecurity, IoT, and AI into projects that push technical boundaries.
 
 * 🌍  I'm based in Morocco
-* 🖥️  See my portfolio at [MyPortfolio](http://h0ussamcl4p.github.io/ThePortfolio.github.io/)
+* 🖥️  See my portfolio at [MyPortfolio](https://houssamc-portfolio.vercel.app/)
 * ✉️  You can contact me at [choubikhoussam@gmail.com](mailto:choubikhoussam@gmail.com)
 * 👥  I'm looking to collaborate on Tech projects
 
