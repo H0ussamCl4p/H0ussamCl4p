@@ -1,31 +1,135 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Choubik Houssam
-========================================================================================================================================
+<h1 align="center">Hi, I'm Houssam 👋</h1>
+<h3 align="center">Cybersecurity & Cloud Computing Engineering Student @ ENSAM Casablanca</h3>
 
-Cybersecurity & cloud computing engineering student @ ENSAM Casablanca
-----------------------------------------------------------------------
-
-I merge my interests in cybersecurity, IoT, and AI into projects that push technical boundaries.
-
-* 🌍  I'm based in Morocco
-* 🖥️  See my portfolio at [MyPortfolio](https://houssamc-portfolio.vercel.app/)
-* ✉️  You can contact me at [choubikhoussam@gmail.com](mailto:choubikhoussam@gmail.com)
-* 👥  I'm looking to collaborate on Tech projects
-
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" title="C" width="36" height="36" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/spring-boot-colored.svg" alt="Spring Boot" title="Spring Boot" width="36" height="36" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" title="TypeScript" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash-colored.svg" alt="GNU Bash" title="GNU Bash" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" alt="Vite" title="Vite" width="36" height="36" /></a><a href="https://svelte.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/svelte-colored.svg" alt="Svelte" title="Svelte" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" alt="Photoshop" title="Photoshop" width="36" height="36" /></a><a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" alt="Arduino" title="Arduino" width="36" height="36" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a><a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" alt="Ubuntu" title="Ubuntu" width="36" height="36" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=0891B2&center=true&vCenter=true&width=600&lines=Cybersecurity+%7C+Cloud+%7C+IoT+%7C+AI;Building+systems+that+push+technical+boundaries;CTF+player+%7C+Pentest+%7C+DevSecOps;1st+place+%E2%80%94+OlympICTs+CTF+2026+%F0%9F%8C%8D" alt="Typing SVG" />
 </p>
 
-### Socials
+<p align="center">
+  <a href="https://github.com/H0ussamCl4p?tab=followers">
+    <img src="https://img.shields.io/github/followers/H0ussamCl4p?logo=github&style=for-the-badge&color=0891b2&labelColor=0f172a" alt="GitHub followers"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=H0ussamCl4p&label=Profile%20views&color=0891b2&style=for-the-badge" alt="Profile views"/>
+  <a href="https://www.linkedin.com/in/houssam-choubik">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
 
-<p align="left"> <a href="https://www.github.com/H0ussamCl4p" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/houssam-choubik-5b4ba3316" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a> <a href="https://www.youtube.com/@HoussamCbk" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" alt="YouTube" title="YouTube" /> </picture> </a></p>
-<a href="https://www.github.com/H0ussamCl4p" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/H0ussamCl4p?logo=github&style=for-the-badge&color=0891b2&labelColor=0f172a" /></a>
-### Badges
+---
 
-<b>My GitHub Stats</b>
+### 🧠 About Me
 
-<a href="http://www.github.com/H0ussamCl4p"><img src="https://github-readme-stats.vercel.app/api?username=H0ussamCl4p&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&show_icons=true" alt="H0ussamCl4p's GitHub stats" /></a>
+```yaml
+name:        Choubik Houssam
+role:        Cybersecurity & Cloud Engineering Student
+location:    Mohammedia, Morocco
+school:      ENSAM Casablanca
+focus:       [ Cybersecurity, Cloud, IoT, AI ]
+currently:   Building Smart Energy Guardian — IIoT predictive maintenance
+learning:    Red teaming, Cloud security, Distributed systems
+ctf:         OlympICTs 2026 — 1st worldwide qualification (1500 pts)
+contact:     choubikhoussam@gmail.com
+portfolio:   https://houssamc-portfolio.vercel.app
+```
 
-<a href="http://www.github.com/H0ussamCl4p"><img src="https://github-readme-streak-stats.herokuapp.com/?user=H0ussamCl4p&stroke=ffffff&background=0f172a&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+---
 
-<a href="https://github.com/H0ussamCl4p" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=H0ussamCl4p&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+### 🏆 Recent Highlights
+
+- 🥇 **1st place worldwide** — OlympICTs CTF 2026 online qualification → on-site final at MWC Barcelona
+- 🏆 **Winner** — AGIOS v2 2026 (National AI competition, ENSAM Casablanca)
+- 🥉 **3rd place** — ENSEM Hackathon with *Smart Energy Guardian*
+- 🎖️ **Finalist** — Capgemini Techathon 2025, Ramadan AI 2025
+- 🛡️ **Fortinet NSE 4** — Network Security Administrator
+- 🐧 Built **MyDistro** — a minimal Linux distribution from scratch
+- 🦀 Wrote **HCShell** — a Unix-like shell in Rust
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages**
+<p>
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,rust,java,ts,js,bash,r&perline=10" />
+</p>
+
+**Web & Frameworks**
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,react,nextjs,svelte,vite,tailwind,html,css&perline=10" />
+</p>
+
+**Cloud, DevOps & Virtualization**
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,azure,linux,ubuntu,vercel&perline=10" />
+  <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" />
+  <img src="https://img.shields.io/badge/OVHcloud-123F6D?style=for-the-badge&logo=ovh&logoColor=white" />
+  <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" />
+</p>
+
+**Embedded & IoT**
+<p>
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi&perline=10" />
+  <img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white" />
+  <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mosquitto-3C5280?style=for-the-badge&logo=eclipsemosquitto&logoColor=white" />
+</p>
+
+**Cybersecurity**
+<p>
+  <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red" />
+  <img src="https://img.shields.io/badge/Fortinet-EE3124?style=for-the-badge&logo=fortinet&logoColor=white" />
+</p>
+
+**Databases & Tools**
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,git,vscode&perline=10" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=H0ussamCl4p&show_icons=true&count_private=true&hide_border=true&title_color=0891b2&icon_color=0891b2&text_color=ffffff&bg_color=0f172a" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=H0ussamCl4p&hide_border=true&background=0f172a&stroke=0891b2&ring=0891b2&fire=0891b2&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=0891b2&sideLabels=ffffff&dates=ffffff" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=H0ussamCl4p&layout=compact&langs_count=10&hide_border=true&title_color=0891b2&text_color=ffffff&bg_color=0f172a" height="180" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=H0ussamCl4p&theme=react-dark&hide_border=true&bg_color=0f172a&color=0891b2&line=0891b2&point=ffffff" height="180" />
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/H0ussamCl4p/H0ussamCl4p/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
+---
+
+### 🏅 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=H0ussamCl4p&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" />
+</p>
+
+---
+
+### 📌 Featured Projects
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| 🌐 **[Smart Energy Guardian](https://eneguardian.app)** | IIoT predictive maintenance with RAG agent — winner AGIOS v2 2026 | Next.js, Spring Boot, Docker, MQTT |
+| 🐧 **[MyDistro](https://github.com/H0ussamCl4p/MyDistro)** | Minimal Linux distribution from scratch | Bash, BusyBox, Linux Kernel |
+| 🦀 **HCShell** | Unix-like command-line shell written in Rust | Rust |
+| ⚽ **[Atlas-RN-Sport](https://github.com/H0ussamCl4p/Atlas-RN-Sport)** | AI football tactical analysis system | TypeScript, Computer Vision |
+| 🌍 **[Portfolio](https://houssamc-portfolio.vercel.app)** | Personal portfolio website | Next.js, TypeScript, Vercel |
+
+---
+
+<p align="center"><i>"Be smart and protect every machine."</i></p>
